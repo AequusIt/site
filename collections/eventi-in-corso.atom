@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://aequus.it/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://aequus.it/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://aequus.it/collections/eventi-in-corso.atom"/>
+  <title>aEQUUS A.P.S.</title>
+  <author>
+    <name>aEQUUS A.P.S.</name>
+  </author>
+</feed>
